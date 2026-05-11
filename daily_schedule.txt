@@ -1,0 +1,37 @@
+=================================================
+  DAILY WASTE COLLECTION SCHEDULE
+  Generated: 2026-05-08 01:34
+=================================================
+
+Vehicle V201  [Regular]
+  Driver  : D303
+  Zone    : north
+  Bins    :
+    - Bin 103   85.0%  Bio  102.0kg  
+    - Bin 104   100.0%  Hazard  100.0kg  [EMERGENCY]
+  Load    : 202.0 / 800 kg
+  Est Dist: 6.0 km
+  Est Fuel: 0.72 L
+
+Vehicle V202  [Compactor]
+  Driver  : D302
+  Zone    : depot
+  Bins    :
+    - Bin 101   92.0%  NonBio  110.4kg  
+  Load    : 110.4 / 2500 kg
+  Est Dist: 0.0 km
+  Est Fuel: 0.00 L
+
+Vehicle V203  [Hazmat]
+  Driver  : D301
+  Zone    : north
+  Bins    :
+    - Bin 103   85.0%  Bio  102.0kg  
+    - Bin 104   100.0%  Hazard  100.0kg  [EMERGENCY]
+  Load    : 202.0 / 400 kg
+  Est Dist: 6.0 km
+  Est Fuel: 0.60 L
+
+WARNING: 3 critical bin(s) unassigned (insufficient resources).
+
+=================================================
